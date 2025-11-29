@@ -50,10 +50,13 @@ Dataset Original: eCommerce behavior data from multi category store (Kaggle)
 
 ## 📦 Estructura del Repositorio
 
+Deberías tener esta estructura para ejecutar el proyecto. Principalmente tener los dataset en la carpeta csv_data, las demás carpetas se crearán al ejecutar el código
+Por razones del tamaño del dataset, este repositorio solo cuenta con README.md y el .ipynb.
+
 ```text
 / (Raíz de la entrega)
 ├── README.md                  # Este archivo (Instrucciones)
-└── Trabajo final.zip          # ARCHIVO DEL PROYECTO (DESCOMPRIMIR PRIMERO)
+└── Trabajo final              # ARCHIVO DEL PROYECTO 
     │
     ├── notebook_proyecto_final.ipynb   # Notebook principal con todo el código
     ├── csv_data/                       # Datos Crudos (Archivos .csv.gz originales)
